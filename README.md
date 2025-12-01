@@ -17,9 +17,4 @@
 ## 📚 O que estou estudando / interessada
 
 - Análise de dados e Big Data no agronegócio  
-- Gestão de projetos e estratégia de negócios  
-
----
-
-## 📫 Contato
-- [Email](franciane.matias.trab@gmail.com)
+- Gestão de projetos e estratégia de negócios 
