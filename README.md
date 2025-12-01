@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou a Franciane Matias
 
-<!--
-**FrancianeMatias/FrancianeMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de Ciência da Computação | Técnica em Redes de Computadores  
+💡 Apaixonada por dados, redes e novas tecnologias  
+🚀 Buscando oportunidades como Analista de Dados júnior / Profissional de Redes  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Conhecimentos
+
+- 💻 Linguagens: C, Python, SQL  
+- 📊 Dados & Banco de Dados: SQL, análise de dados  
+- 🌐 Redes e Sistemas: redes de computadores, conceitos de redes, sistemas operacionais (estudo de Symbian OS)   
+
+---
+
+## 📚 O que estou estudando / interessada
+
+- Análise de dados e Big Data no agronegócio  
+- Gestão de projetos e estratégia de negócios  
+
+---
+
+## 📫 Contato
+- [Email](franciane.matias.trab@gmail.com)
