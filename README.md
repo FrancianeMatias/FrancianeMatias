@@ -10,11 +10,11 @@
 
 - 💻 Linguagens: C, Python, SQL  
 - 📊 Dados & Banco de Dados: SQL, análise de dados  
-- 🌐 Redes e Sistemas: redes de computadores, conceitos de redes, sistemas operacionais (estudo de Symbian OS)   
+- 🌐 Redes e Sistemas: redes de computadores, conceitos de redes, sistemas operacionais
 
 ---
 
 ## 📚 O que estou estudando / interessada
 
-- Análise de dados e Big Data no agronegócio  
+- Análise de dados e Big Data
 - Gestão de projetos e estratégia de negócios 
